@@ -1,4 +1,4 @@
-package kpfu.itis.devintensive
+package ru.skillbranch.devintensive
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
